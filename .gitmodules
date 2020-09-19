@@ -1,0 +1,4 @@
+[submodule "flink-demo-pipeline"]
+	path = flink-demo-pipeline
+	url = https://github.com/DaBullet/flink-demo-pipeline.git
+	branch = master
